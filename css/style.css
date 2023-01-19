@@ -1,0 +1,18 @@
+body{
+    background-color: #F8F9FA;
+}
+.banner1{
+    background-image: url(../images/carousel/1.jpg);
+    height: 100vh;
+}
+.banner2{
+    background-image: url(../images/carousel/3.jpg);
+    height: 100vh;
+}
+.banner3{
+    background-image: url(../images/carousel/5.jpg);
+    height: 100vh;
+}
+.client-image{
+    width: 160px;
+}
